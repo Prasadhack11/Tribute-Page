@@ -1,0 +1,31 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+    color: #333;
+  }
+  
+  header, main, footer {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  header {
+    background-color: #4CAF50;
+    color: #fff;
+    text-align: center;
+  }
+  
+  h1, h2 {
+    margin: 0;
+  }
+  
+  p {
+    margin-bottom: 1em;
+  }
+  
+  /*
+  
